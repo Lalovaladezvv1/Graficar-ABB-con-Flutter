@@ -27,7 +27,7 @@ class Arbol {
     return _raiz;
   }
 
-  set elemento(Nodo n) {
+  set raiz(Nodo n) {
     this._raiz = n;
   }
 }
